@@ -98,6 +98,12 @@ th {
     vertical-align: middle;
     padding: 1rem;
 }
+th a {
+    color: #3a7edf;
+}
+th a:hover {
+    border-bottom: 1px solid #3a7edf;
+}
 td {
     padding: .75rem 1rem 1.75rem;
     font-size: small;
